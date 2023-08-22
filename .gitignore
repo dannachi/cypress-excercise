@@ -571,3 +571,6 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudio,node,cypressio
+
+cypress/e2e/1-getting-started/*
+cypress/e2e/2-advanced-examples/*
